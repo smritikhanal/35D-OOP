@@ -38,7 +38,19 @@ System.out.println("String. Don't forget: use\\");
 System.out.println("instead of \"!");
 System.out.println("\" is not the same as \"");
 
+/*4. WAP that prints the following pattern:
 
+*
+
+**
+
+***
+
+**** */
+System.out.println("*");
+System.out.println("**");
+System.out.println("***");
+System.out.println("****");
     }
 
 }
